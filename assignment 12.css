@@ -1,0 +1,41 @@
+.ss{
+    background-color: black;
+}
+#a{
+    color: cadetblue;
+    text-align: center;
+    font-size: 75px;
+    text-shadow:-5px 5px 1px goldenrod ,
+                -10px 10px 1px red ,
+                -15px 15px 1px purple;
+
+}
+#b{
+    color: cadetblue;
+    text-align: center;
+    font-size: 75px;
+    text-shadow:-5px 5px 1px goldenrod ,
+                -10px 10px 1px red ,
+                -15px 15px 1px purple;
+}
+.k{
+    color: darkcyan;
+}
+.s{
+    color: darkred;
+    font-size: 25px;
+}
+#dd{
+    font-size: 60px;
+    color: darkolivegreen;
+    text-decoration: line-through yellow;
+    
+}
+#f{
+    color: purple;
+    font-size: 18px;
+}
+#as{
+    color: darkgoldenrod;
+    font-size: 17px;
+}
